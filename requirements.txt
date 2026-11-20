@@ -1,1 +1,5 @@
 openai
+fastapi
+uvicorn
+pytest
+httpx
